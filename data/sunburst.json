@@ -1,36 +1,247 @@
-{
-    "name": "Andrii Lundiak",
-    "children": [
-      {
-        "name": "Lundiak",
+[{
+    "name": "Lundiak Mykhajlo(1949)",
+    "children": [{
+        "name": "Lundiak Wasyl(1925)",
         "children": [{
-            "name": "Lundiak",
-            "size": 1
+            "name": "Lundiak Nicolaus(1901)",
+            "children": [{
+                "name": "Lundiak Paulus(1861)",
+                "children": [{
+                    "name": "Lundiak Eustachius(1827)",
+                    "size": 1
+                }, {
+                    "name": "Kislak Maria(1828)",
+                    "size": 1
+                }]
+            }, {
+                "name": "Mykytiuk Maria",
+                "children": [{
+                    "name": "Mykytiuk Basilius(1800)",
+                    "size": 1
+                }, {
+                    "name": "Demydiuk Anna(1800)",
+                    "size": 1
+                }]
+            }]
         }, {
-            "name": "Basiuga",
-            "size": 1
-        }, {
-            "name": "Jurczylo",
-            "size": 1
-        }, {
-            "name": "Basiuga",
-            "size": 1
+            "name": "Basiuga Eudoxia(1902)",
+            "children": [{
+                "name": "Basiuga Nicodemus(1861)",
+                "children": [{
+                    "name": "Basiuga Michael(1836)",
+                    "size": 1
+                }, {
+                    "name": "Mykietiuk Eudoxia(1836)",
+                    "size": 1
+                }]
+            }, {
+                "name": "Solomon Anna(1861)",
+                "children": [{
+                    "name": "Solomon Stephanus(1841)",
+                    "size": 1
+                }, {
+                    "name": "Janciuk Anastasia(1841)",
+                    "size": 1
+                }]
+            }]
         }]
-      }, {
-        "name": "Babij",
+    }, {
+        "name": "Jurczylo Anna(1927)",
         "children": [{
-            "name": "Babij",
-            "size": 1
+            "name": "Jurczylo Nicolaus(1897)",
+            "children": [{
+                "name": "Jurczylo Wasyl(1865)",
+                "children": [{
+                    "name": "Jurczylo Joannes(1848)",
+                    "children": [{
+                        "name": "Jurczylo Basilius(1826)",
+                        "size": 1
+                    }, {
+                        "name": "Pankow Pelagia(1826)",
+                        "size": 1
+                    }]
+                }, {
+                    "name": "Kislak Anna(1848)",
+                    "children": [{
+                        "name": "Kislak Elias(1827)",
+                        "size": 1
+                    }, {
+                        "name": "Rohow Eccaterina(1827)",
+                        "size": 1
+                    }]
+                }]
+            }, {
+                "name": "Fedorak Catharina(1869)",
+                "children": [{
+                    "name": "Fedorak Onufrius(1845)",
+                    "children": [{
+                        "name": "Fedorak Josephus(1825)",
+                        "size": 1
+                    }, {
+                        "name": "Wowoczuk Eudoxia(1825)",
+                        "size": 1
+                    }]
+                }, {
+                    "name": "Polowko Anna(1845)",
+                    "children": [{
+                        "name": "Plowko Alexius(1825)",
+                        "size": 1
+                    }, {
+                        "name": "Iwankow Eccaterina(1820)",
+                        "size": 1
+                    }]
+                }]
+            }]
         }, {
-            "name": "Tymkiw",
-            "size": 1
-        }, {
-            "name": "Stefurak",
-            "size": 1
-        }, {
-            "name": "Szybisty",
-            "size": 1
+            "name": "Basiuga Eudoxia(1894)",
+            "children": [{
+                "name": "Basiuga Demetrius(1856)",
+                "children": [{
+                    "name": "Basiuga Michael(1836)",
+                    "size": 1
+                }, {
+                    "name": "Mykietiuk Eudoxia(1836)",
+                    "size": 1
+                }]
+            }, {
+                "name": "Skrypnyk Maria",
+                "children": [{
+                    "name": "Skrypnyk Elias(1820)",
+                    "children": [{
+                        "name": "Skreplik Wasyl(1800)",
+                        "size": 1
+                    }, {
+                        "name": "Unknown",
+                        "size": 1
+                    }]
+                }, {
+                    "name": "Mriczko Catharina(1820)",
+                    "children": [{
+                        "name": "Mriczko Demetrius(1800)",
+                        "size": 1
+                    }, {
+                        "name": "Bilczak_or_Oheruk",
+                        "size": 1
+                    }]
+                }]
+            }]
         }]
-      }
-    ]
-}
+    }]
+}, {
+    "name": "Babij Kateryna(1950)",
+    "children": [{
+        "name": "Babij Stephanus(1901)",
+        "children": [{
+            "name": "Babij Onophrius(1871)",
+            "children": [{
+                "name": "Babij Basilius(1848)",
+                "children": [{
+                    "name": "Babij Damianus(1816)",
+                    "children": [{
+                        "name": "Babij Joachimus(1778)",
+                        "size": 1
+                    }, {
+                        "name": "Unknown",
+                        "size": 1
+                    }]
+                }, {
+                    "name": "Czyżowska Catharina(1816)",
+                    "children": [{
+                        "name": "Czyżwoski Vincentus(1780)",
+                        "size": 1
+                    }, {
+                        "name": "Unknown",
+                        "size": 1
+                    }]
+                }]
+            }, {
+                "name": "Kislak Maria(1848)",
+                "children": [{
+                    "name": "Kislak Michalis(1820)",
+                    "children": [{
+                        "name": "Kislak 1800",
+                        "size": 1
+                    }, {
+                        "name": "Unknown",
+                        "size": 1
+                    }]
+                }, {
+                    "name": "Ilkow Justina(1820)",
+                    "children": [{
+                        "name": "Ilkow 1800",
+                        "size": 1
+                    }, {
+                        "name": "Unknown",
+                        "size": 1
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Tymkiw Anna(1871)",
+            "children": [{
+                "name": "Tymkiw Niketas(1851)",
+                "children": [{
+                    "name": "Tymkiw Maxym(1820)",
+                    "size": 1
+                }, {
+                    "name": "Unknown",
+                    "size": 1
+                }]
+            }, {
+                "name": "Andrusiak Katharina(1851)",
+                "children": [{
+                    "name": "Andrusiak Jacobus(1820)",
+                    "size": 1
+                }, {
+                    "name": "Łazar Anastasia(1820)",
+                    "size": 1
+                }]
+            }]
+        }]
+    }, {
+        "name": "Stefurak Eudoxia(1905)",
+        "children": [{
+            "name": "Stefurak Petrus(1874)",
+            "children": [{
+                "name": "Stefurak Nicolaus(1835)",
+                "children": [{
+                    "name": "Stefurak 1800",
+                    "size": 1
+                }, {
+                    "name": "Unknown 1800",
+                    "size": 1
+                }]
+            }, {
+                "name": "Griczko Catharina(1830)",
+                "children": [{
+                    "name": "Griczko Jacobus(1800)",
+                    "size": 1
+                }, {
+                    "name": "Hurmak Eudoxia",
+                    "size": 1
+                }]
+            }]
+        }, {
+            "name": "Szybista Anna(1879)",
+            "children": [{
+                "name": "Szybisty Georgius(1854)",
+                "children": [{
+                    "name": "Szybisty Stephanus(1780)",
+                    "size": 1
+                }, {
+                    "name": "Unknown",
+                    "size": 1
+                }]
+            }, {
+                "name": "Iwankow Catharina(1854)",
+                "children": [{
+                    "name": "Iwankow Stephanus(1834)",
+                    "size": 1
+                }, {
+                    "name": "Iwasyk Pelagia(1834)",
+                    "size": 1
+                }]
+            }]
+        }]
+    }]
+}]
