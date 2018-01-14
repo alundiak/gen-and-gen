@@ -8,21 +8,21 @@
 // import {surnamesData} from '/data/surnames.json'
 // import {locationsData} from '/data/locations.json'
 
-import {surnamesData} from '/js/surnames.js'
+import {surnamesData_EN, surnamesData_UA} from '/js/surnames.js'
 import {locationsData} from '/js/locations.js'
 
 // var fill = d3.scale.category20(); // old code
 var fill = d3.schemeCategory20; // new code
 
-console.log("My Surnames Length: "+surnamesData.length);
-console.log("My Locations Length: "+locationsData.length);
+// console.log("My Surnames Length: "+surnamesData.length);
+// console.log("My Locations Length: "+locationsData.length);
 
 var sizeIndex = 20; //50
 var rotateIndex = 0; //90
 var cloudDensitySize = [400, 400]; //[300, 300]
 
 d3.layout.cloud().size(cloudDensitySize)
-    .words(surnamesData.map(function(d) {
+    .words(surnamesData_EN.map(function(d) {
       return {text: d, size: 10 + Math.random() * sizeIndex};
     }))
     .rotate(function() { return ~~(Math.random() * 2) * rotateIndex; })
@@ -30,6 +30,18 @@ d3.layout.cloud().size(cloudDensitySize)
     .fontSize(function(d) { return d.size; })
     .on("end", draw)
     .start();
+
+
+d3.layout.cloud().size(cloudDensitySize)
+    .words(surnamesData_UA.map(function(d) {
+      return {text: d, size: 10 + Math.random() * sizeIndex};
+    }))
+    .rotate(function() { return ~~(Math.random() * 2) * rotateIndex; })
+    .font("Impact")
+    .fontSize(function(d) { return d.size; })
+    .on("end", draw)
+    .start();
+
 
 d3.layout.cloud().size(cloudDensitySize)
     .words(locationsData.map(function(d) {

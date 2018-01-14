@@ -1,0 +1,36 @@
+{
+    "name": "Andrii Lundiak",
+    "children": [
+      {
+        "name": "Lundiak",
+        "children": [{
+            "name": "Lundiak",
+            "size": 1
+        }, {
+            "name": "Basiuga",
+            "size": 1
+        }, {
+            "name": "Jurczylo",
+            "size": 1
+        }, {
+            "name": "Basiuga",
+            "size": 1
+        }]
+      }, {
+        "name": "Babij",
+        "children": [{
+            "name": "Babij",
+            "size": 1
+        }, {
+            "name": "Tymkiw",
+            "size": 1
+        }, {
+            "name": "Stefurak",
+            "size": 1
+        }, {
+            "name": "Szybisty",
+            "size": 1
+        }]
+      }
+    ]
+}
