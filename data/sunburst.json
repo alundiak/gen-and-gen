@@ -53,43 +53,19 @@
                 "name": "Jurczylo Wasyl(1865)",
                 "children": [{
                     "name": "Jurczylo Joannes(1848)",
-                    "children": [{
-                        "name": "Jurczylo Basilius(1826)",
-                        "size": 1
-                    }, {
-                        "name": "Pankow Pelagia(1826)",
-                        "size": 1
-                    }]
+                    "size": 1
                 }, {
                     "name": "Kislak Anna(1848)",
-                    "children": [{
-                        "name": "Kislak Elias(1827)",
-                        "size": 1
-                    }, {
-                        "name": "Rohow Eccaterina(1827)",
-                        "size": 1
-                    }]
+                    "size": 1
                 }]
             }, {
                 "name": "Fedorak Catharina(1869)",
                 "children": [{
                     "name": "Fedorak Onufrius(1845)",
-                    "children": [{
-                        "name": "Fedorak Josephus(1825)",
-                        "size": 1
-                    }, {
-                        "name": "Wowoczuk Eudoxia(1825)",
-                        "size": 1
-                    }]
+                    "size": 1
                 }, {
                     "name": "Polowko Anna(1845)",
-                    "children": [{
-                        "name": "Plowko Alexius(1825)",
-                        "size": 1
-                    }, {
-                        "name": "Iwankow Eccaterina(1820)",
-                        "size": 1
-                    }]
+                    "size": 1
                 }]
             }]
         }, {
@@ -107,22 +83,10 @@
                 "name": "Skrypnyk Maria",
                 "children": [{
                     "name": "Skrypnyk Elias(1820)",
-                    "children": [{
-                        "name": "Skreplik Wasyl(1800)",
-                        "size": 1
-                    }, {
-                        "name": "Unknown",
-                        "size": 1
-                    }]
+                    "size": 1
                 }, {
                     "name": "Mriczko Catharina(1820)",
-                    "children": [{
-                        "name": "Mriczko Demetrius(1800)",
-                        "size": 1
-                    }, {
-                        "name": "Bilczak_or_Oheruk",
-                        "size": 1
-                    }]
+                    "size": 1
                 }]
             }]
         }]
@@ -137,43 +101,19 @@
                 "name": "Babij Basilius(1848)",
                 "children": [{
                     "name": "Babij Damianus(1816)",
-                    "children": [{
-                        "name": "Babij Joachimus(1778)",
-                        "size": 1
-                    }, {
-                        "name": "Unknown",
-                        "size": 1
-                    }]
+                    "size": 1
                 }, {
                     "name": "Czyżowska Catharina(1816)",
-                    "children": [{
-                        "name": "Czyżwoski Vincentus(1780)",
-                        "size": 1
-                    }, {
-                        "name": "Unknown",
-                        "size": 1
-                    }]
+                    "size": 1
                 }]
             }, {
                 "name": "Kislak Maria(1848)",
                 "children": [{
                     "name": "Kislak Michalis(1820)",
-                    "children": [{
-                        "name": "Kislak 1800",
-                        "size": 1
-                    }, {
-                        "name": "Unknown",
-                        "size": 1
-                    }]
+                    "size": 1
                 }, {
                     "name": "Ilkow Justina(1820)",
-                    "children": [{
-                        "name": "Ilkow 1800",
-                        "size": 1
-                    }, {
-                        "name": "Unknown",
-                        "size": 1
-                    }]
+                    "size": 1
                 }]
             }]
         }, {
