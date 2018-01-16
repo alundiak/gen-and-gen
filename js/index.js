@@ -9,7 +9,7 @@
 // import {locationsData} from '/data/locations.json'
 
 import {surnamesData_EN, surnamesData_UA} from '/js/surnames.js'
-import {locationsData} from '/js/locations.js'
+import {locationsData_EN, locationsData_UA} from '/js/locations.js'
 
 // var fill = d3.scale.category20(); // old code
 // var fill = d3.schemeCategory10; // new code
@@ -50,7 +50,17 @@ d3.layout.cloud().size(cloudDensitySize)
 
 
 d3.layout.cloud().size(cloudDensitySize)
-    .words(locationsData.map(function(d) {
+    .words(locationsData_EN.map(function(d) {
+      return {text: d, size: 10 + Math.random() * sizeIndex};
+    }))
+    .rotate(function() { return ~~(Math.random() * 2) * rotateIndex; })
+    .font("Impact")
+    .fontSize(function(d) { return d.size; })
+    .on("end", draw)
+    .start();
+
+d3.layout.cloud().size(cloudDensitySize)
+    .words(locationsData_UA.map(function(d) {
       return {text: d, size: 10 + Math.random() * sizeIndex};
     }))
     .rotate(function() { return ~~(Math.random() * 2) * rotateIndex; })
@@ -66,7 +76,7 @@ function draw(words) {
 
   d3.select("body").append("svg")
       .attr("width", 400)
-      .attr("height", 500)
+      .attr("height", 400)
     .append("g")
       .attr("transform", "translate(200,200)")
     .selectAll("text")

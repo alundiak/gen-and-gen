@@ -1,15 +1,26 @@
-export var locationsData = [
-    "Молодків/Молотьків", "Молотькова/Molodkowa", "Molodkiv", "Mołotków/Molodkow",
-    "Маркова", "Markova", "Бабче/Babcze", "Babche", "Pniow", "Пнів", "Hwozd", "Гвізд",
+export var locationsData_EN = [
+    "Molodkowa", "Molodkiv", "Mołotków", "Molodkow",
+    "Markova", "Babcze", "Babche", "Pniow", "Hwozd",
     "Starunia", "Solotwina (Krasnopol)", "Manastyrczany", "Lysiec (Moczar)", "Dragomyrczany", "Bogorodczany",
-    "Новиця", "Nowica", "Nowytsia", "Nowyca", "Novica",
-    "Калуш", "Kalusz", "Kalush", "Добровляни", "Landestreu", "Dobrowlany",
-    "Надвірна", "Nadworna", "Stanisławów", "Станіславів", "Івано-Франківськ", "Iwano-Frankiwsk",
+    "Nowica", "Nowytsia", "Nowyca", "Novica",
+    "Kalusz", "Kalush", "Landestreu", "Dobrowlany",
+    "Nadworna", "Stanisławów", "Iwano-Frankiwsk",
     "Siedliska/Siedlisko", "Tolshchow/Tolszczow",
     "Capowce (Podillya)",
     "Opole", "Słupia pod Kępnem", "Bralin",
-    "Хубовка/Chabówka", "Košice/Koszyce", "Kassa/Kashau", "Cassovia",
-    "Hradec Kralowe", "Libčany", "Broumov", "Police (and Metuji)",
+    "Chabówka", "Košice/Koszyce", "Kassa/Kashau", "Cassovia",
+    "Hradec Kralowe", "Libčany", "Broumov", "Police nad Metují",
     "Koblenz", "Karlshof",
     "New Jersey"
+]
+
+export var locationsData_UA = [
+    "Молодків", "Молотьків", "Молотькова",
+    "Маркова", "Бабче", "Пнів", "Гвізд",
+    "Старуня", "Солотвина", "Манастирчани", "Лисець", "Драгомирчани", "Богородчани",
+    "Новиця", "Калуш", "Добровляни",
+    "Надвірна", "Станіславів", "Івано-Франківськ",
+    "Селисько", "Товщів",
+    "Ціпівці (Поділля)",
+    "Хубовка", "Kошиче"
 ]
