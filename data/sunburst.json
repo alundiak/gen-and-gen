@@ -1,121 +1,152 @@
 [{
-    "name": "Lundiak Mykhajlo(1949)",
+    "name": "Lundiak Mykhajlo",
+    "year": 1949,
     "colour": "#326a9f",
     "children": [{
-        "name": "Lundiak Wasyl(1925)",
+        "name": "Lundiak Wasyl",
+        "year": 1925,
         "colour": "#326a9f",
         "children": [{
-            "name": "Lundiak Nicolaus(1901)",
+            "name": "Lundiak Nicolaus",
+            "year": 1901,
             "colour": "#326a9f",
             "children": [{
-                "name": "Lundiak Paulus(1861)",
+                "name": "Lundiak Paulus",
+                "year": 1861,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Lundiak Eustachius(1827)",
+                    "name": "Lundiak Eustachius",
+                    "year": 1827,
                     "size": 1,
                     "colour": "#326a9f"
                 }, {
-                    "name": "Kislak Maria(1828)",
+                    "name": "Kislak Maria",
+                    "year": 1828,
                     "size": 1,
                     "colour": "#b54997"
                 }]
             }, {
                 "name": "Mykytiuk Maria",
+                "year": 1870,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Mykytiuk Basilius(1800)",
-                    "size": 1,
-                    "colour": "#326a9f"
+                    "name": "Mykytiuk Basilius",
+                    "year": 1850,
+                    "colour": "#326a9f",
+                    "size": 1
                 }, {
-                    "name": "Demydiuk Anna(1800)",
-                    "size": 1,
-                    "colour": "#b54997"
+                    "name": "Demydiuk Anna",
+                    "year": 1850,
+                    "colour": "#b54997",
+                    "size": 1
                 }]
             }]
         }, {
-            "name": "Basiuga Eudoxia(1902)",
+            "name": "Basiuga Eudoxia",
+            "year": 1902,
             "colour": "#b54997",
             "children": [{
-                "name": "Basiuga Nicodemus(1861)",
+                "name": "Basiuga Nicodemus",
+                "year": 1861,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Basiuga Michael(1836)",
+                    "name": "Basiuga Michael",
+                    "year": 1836,
                     "size": 1,
                     "colour": "#326a9f"
                 }, {
-                    "name": "Mykietiuk Eudoxia(1836)",
+                    "name": "Mykietiuk Eudoxia",
+                    "year": 1836,
                     "size": 1,
                     "colour": "#b54997"
                 }]
             }, {
-                "name": "Solomon Anna(1861)",
+                "name": "Solomon Anna",
+                "year": 1861,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Solomon Stephanus(1841)",
+                    "name": "Solomon Stephanus",
+                    "year":1841,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Janciuk Anastasia(1841)",
+                    "name": "Janciuk Anastasia",
+                    "year": 1841,
                     "size": 1,
                     "colour": "#b54997"
                 }]
             }]
         }]
     }, {
-        "name": "Jurczylo Anna(1927)",
+        "name": "Jurczylo Anna",
+        "year": 1927,
         "colour": "#b54997",
         "children": [{
-            "name": "Jurczylo Nicolaus(1897)",
+            "name": "Jurczylo Nicolaus",
+            "year": 1897,
             "colour": "#326a9f",
             "children": [{
-                "name": "Jurczylo Wasyl(1865)",
+                "name": "Jurczylo Wasyl",
+                "year":1865,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Jurczylo Joannes(1848)",
+                    "name": "Jurczylo Joannes",
+                    "year": 1848,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Kislak Anna(1848)",
+                    "name": "Kislak Anna",
+                    "year": 1848,
                     "size": 1,
                     "colour": "#b54997"
                 }]
             }, {
-                "name": "Fedorak Catharina(1869)",
+                "name": "Fedorak Catharina",
+                "year": 1869,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Fedorak Onufrius(1845)",
+                    "name": "Fedorak Onufrius",
+                    "year": 1845,
                     "size": 1,
                     "colour": "#326a9f"
                 }, {
-                    "name": "Polowko Anna(1845)",
+                    "name": "Polowko Anna",
+                    "year": 1845,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }]
         }, {
-            "name": "Basiuga Eudoxia(1894)",
+            "name": "Basiuga Eudoxia",
+            "year": 1894,
             "colour": "#b54997",
             "children": [{
-                "name": "Basiuga Demetrius(1856)",
+                "name": "Basiuga Demetrius",
+                "year": 1856,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Basiuga Michael(1836)",
+                    "name": "Basiuga Michael",
+                    "year": 1836,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Mykietiuk Eudoxia(1836)",
+                    "name": "Mykietiuk Eudoxia",
+                    "year": 1836,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }, {
                 "name": "Skrypnyk Maria",
+                "year": 1856,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Skrypnyk Elias(1820)",
+                    "name": "Skrypnyk Elias",
+                    "year": 1820,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Mriczko Catharina(1820)",
+                    "name": "Mriczko Catharina",
+                    "year": 1820,
                     "colour": "#b54997",
                     "size": 1
                 }]
@@ -123,123 +154,154 @@
         }]
     }]
 }, {
-    "name": "Babij Kateryna(1950)",
+    "name": "Babij Kateryna",
+    "year": 1950,
     "colour": "#b54997",
     "children": [{
-        "name": "Babij Stephanus(1901)",
+        "name": "Babij Stephanus",
+        "year": 1901,
         "colour": "#326a9f",
         "children": [{
-            "name": "Babij Onophrius(1871)",
+            "name": "Babij Onophrius",
+            "year": 1871,
             "colour": "#326a9f",
             "children": [{
-                "name": "Babij Basilius(1848)",
+                "name": "Babij Basilius",
+                "year": 1848,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Babij Damianus(1816)",
+                    "name": "Babij Damianus",
+                    "year": 1816,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Czyżowska Catharina(1816)",
+                    "name": "Czyżowska Catharina",
+                    "year": 1816,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }, {
-                "name": "Kislak Maria(1848)",
+                "name": "Kislak Maria",
+                "year": 1848,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Kislak Michalis(1820)",
+                    "name": "Kislak Michalis",
+                    "year": 1820,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Ilkow Justina(1820)",
+                    "name": "Ilkow Justina",
+                    "year": 1820,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }]
         }, {
-            "name": "Tymkiw Anna(1871)",
+            "name": "Tymkiw Anna",
+            "year": 1871,
             "colour": "#b54997",
             "children": [{
-                "name": "Tymkiw Niketas(1851)",
+                "name": "Tymkiw Niketas",
+                "year": 1851,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Tymkiw Maxym(1820)",
+                    "name": "Tymkiw Maxym",
+                    "year": 1820,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
                     "name": "Unknown",
+                    "year": 1820,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }, {
-                "name": "Andrusiak Katharina(1851)",
+                "name": "Andrusiak Katharina",
+                "year": 1851,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Andrusiak Jacobus(1820)",
+                    "name": "Andrusiak Jacobus",
+                    "year": 1820,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Łazar Anastasia(1820)",
+                    "name": "Łazar Anastasia",
+                    "year": 1820,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }]
         }]
     }, {
-        "name": "Stefurak Eudoxia(1905)",
+        "name": "Stefurak Eudoxia",
+        "year": 1905,
         "colour": "#b54997",
         "children": [{
-            "name": "Stefurak Petrus(1874)",
+            "name": "Stefurak Petrus",
+            "year": 1874,
             "colour": "#326a9f",
             "children": [{
-                "name": "Stefurak Nicolaus(1835)",
+                "name": "Stefurak Nicolaus",
+                "year": 1835,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Stefurak 1800",
+                    "name": "Stefurak",
+                    "year": 1800,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Unknown 1800",
+                    "name": "Unknown",
+                    "year": 1800,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }, {
-                "name": "Griczko Catharina(1830)",
+                "name": "Griczko Catharina",
+                "year": 1830,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Griczko Jacobus(1800)",
+                    "name": "Griczko Jacobus",
+                    "year": 1800,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
                     "name": "Hurmak Eudoxia",
+                    "year": 1800,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }]
         }, {
-            "name": "Szybista Anna(1879)",
+            "name": "Szybista Anna",
+            "year": 1879,
             "colour": "#b54997",
             "children": [{
-                "name": "Szybisty Georgius(1854)",
+                "name": "Szybisty Georgius",
+                "year": 1854,
                 "colour": "#326a9f",
                 "children": [{
-                    "name": "Szybisty Stephanus(1780)",
+                    "name": "Szybisty Stephanus",
+                    "year": 1780,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
                     "name": "Unknown",
+                    "year": 1780,
                     "colour": "#b54997",
                     "size": 1
                 }]
             }, {
-                "name": "Iwankow Catharina(1854)",
+                "name": "Iwankow Catharina",
+                "year": 1854,
                 "colour": "#b54997",
                 "children": [{
-                    "name": "Iwankow Stephanus(1834)",
+                    "name": "Iwankow Stephanus",
+                    "year": 1834,
                     "colour": "#326a9f",
                     "size": 1
                 }, {
-                    "name": "Iwasyk Pelagia(1834)",
+                    "name": "Iwasyk Pelagia",
+                    "year": 1834,
                     "colour": "#b54997",
                     "size": 1
                 }]
