@@ -1,0 +1,31 @@
+[{
+    "Haplogroup": "I-Y4460",
+    "LonghandHaplogroup": "I2c1b1a1a1d",
+    "IsYourHaplogroup": true,
+    "Steps": 0,
+    "Count": 2
+}, {
+    "Haplogroup": "I-S20602",
+    "LonghandHaplogroup": "I2c1b1a1a1",
+    "IsYourHaplogroup": false,
+    "Steps": 1,
+    "Count": 2
+}, {
+    "Haplogroup": "I-CTS10228",
+    "LonghandHaplogroup": "I2c1b1a1a",
+    "IsYourHaplogroup": false,
+    "Steps": 2,
+    "Count": 2
+}, {
+    "Haplogroup": "I-CTS4002",
+    "LonghandHaplogroup": "I2c1b1a1",
+    "IsYourHaplogroup": false,
+    "Steps": 3,
+    "Count": 2
+}, {
+    "Haplogroup": "I-CTS10936",
+    "LonghandHaplogroup": "I2c1b1a",
+    "IsYourHaplogroup": false,
+    "Steps": 4,
+    "Count": 2
+}]

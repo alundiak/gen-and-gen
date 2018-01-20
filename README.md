@@ -4,13 +4,13 @@ Genealogy and Genetics related projects sandbox
 ## Tech Stack
 Based on D3.JS try to implement tree visualization
 
-## 1: Surnames and Locations Clouds
+## 1: [Surnames and Locations Clouds](https://alundiak.github.io/gen-and-gen/clouds)
 
 - [D3.Cloud](https://github.com/jasondavies/d3-cloud)
 - Maybe [D3.Cloud v4](https://www.npmjs.com/package/d3-v4-cloud)
 - [D3.Scale](https://github.com/d3/d3-scale)
 
-## 2: Surnames Sunburst chart
+## 2: [Surnames Sunburst chart](https://alundiak.github.io/gen-and-gen/sunburst)
 - https://bl.ocks.org/mbostock/4063423 - Sunburst Partition
 - https://bl.ocks.org/kerryrodden/7090426 - Sequences sunburst
 - https://www.jasondavies.com/coffee-wheel/ - Coffee Wheel
