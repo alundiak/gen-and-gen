@@ -2,21 +2,24 @@
 <html>
 
 <head>
-    <title>Sunburst example</title>
+    <title>Sunburst chart for surnames</title>
     <script src="//d3js.org/d3.v3.min.js"></script>
-    <style type="text/css">
-    path {
-        stroke: #fff;
-    }
-    tspan{
-        font-size: 14px;
-    }
-    </style>
     <link rel="stylesheet" type="text/css" href="css/jasondavies_style.css">
+    <link rel="stylesheet" type="text/css" href="css/sunburst.css">
 </head>
 
-<body>
-	<div id="vis"></div>
+<body class="nested_body">
+    <h2>Surnames Sunburst chart</h2>
+    
+    <div class="info">
+        <div><span>My Facebook profile - <a target="_blank" href="https://www.facebook.com/andrii.lundiak">Andrii Lundiak</a></span></div>
+        <div>My blog - <a target="_blank" href="https://lundiak.wordpress.com/">LUND-IA-K</a></div>    
+        <div>My github - <a href="https://alundiak.github.io/gen-and-gen">Gen&Gen</a> project</div>    
+    </div>
+
+    <div class="surnames_sunburst">
+	   <div id="vis"></div>
+    </div>
     <script type="text/javascript" src="js/jasondavies_app.min.js"></script>
     <!-- <script type="text/javascript" src="js/sunburst.js"></script> -->
     <!-- <script type="application/javascript" src="js/sunburst.js"></script> -->

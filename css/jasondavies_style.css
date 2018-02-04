@@ -26,12 +26,12 @@ a:not(:hover) {
 }
 
 body {
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
   line-height: 1.5em;
   color: #333;
   background: #fefefe;
-  width: 960px;
+  /*width: 960px;*/
   position: relative;
 }
 

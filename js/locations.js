@@ -1,4 +1,5 @@
-export var locationsData_EN = [
+// export var locationsData_EN = [
+var locationsData_EN = [
     "Molodkowa", "Molodkiv", "Mołotków", "Molodkow",
     "Markova", "Babcze", "Babche", "Pniow", "Hwozd",
     "Starunia", "Solotwina (Krasnopol)", "Manastyrczany", "Lysiec (Moczar)", "Dragomyrczany", "Bogorodczany",
@@ -14,13 +15,14 @@ export var locationsData_EN = [
     "New Jersey"
 ]
 
-export var locationsData_UA = [
+// export var locationsData_UA = [
+var locationsData_UA = [
     "Молодків", "Молотьків", "Молотькова",
     "Маркова", "Бабче", "Пнів", "Гвізд",
     "Старуня", "Солотвина", "Манастирчани", "Лисець", "Драгомирчани", "Богородчани",
     "Новиця", "Калуш", "Добровляни",
     "Надвірна", "Станіславів", "Івано-Франківськ",
     "Селисько", "Товщів",
-    "Ціпівці (Поділля)",
+    "Цапівці (Поділля)",
     "Хубовка", "Kошиче"
 ]

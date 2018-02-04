@@ -8,13 +8,13 @@
 // import {surnamesData} from '/data/surnames.json'
 // import {locationsData} from '/data/locations.json'
 
-import {surnamesData_EN, surnamesData_UA} from '/js/surnames.js'
-import {locationsData_EN, locationsData_UA} from '/js/locations.js'
+// import {surnamesData_EN, surnamesData_UA} from '/js/surnames.js'
+// import {locationsData_EN, locationsData_UA} from '/js/locations.js'
 
-// var fill = d3.scale.category20(); // old code
+var fill = d3.scale.category20(); // old code
 // var fill = d3.schemeCategory10; // new code
 // var fill = d3.schemeCategory20; // new code
-var fill = d3.schemeCategory20c; // new code
+// var fill = d3.schemeCategory20c; // new code
 
 // var fill = d3.schemeAccent; // from d3-scale-chromatic
 // var fill = d3.scaleOrdinal(d3.schemeCategory20) // bad
@@ -74,7 +74,8 @@ function draw(words) {
 
   console.log("Selected words to draw. Length: "+words.length);
 
-  d3.select("body").append("svg")
+  d3.select(".surnames_cloud").append("div").attr('class', 'svg-container').append("svg")
+  // d3.select("body").append("svg")
       .attr("width", 400)
       .attr("height", 400)
     .append("g")

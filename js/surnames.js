@@ -1,4 +1,5 @@
-export var surnamesData_EN = [
+// export var surnamesData_EN = [
+var surnamesData_EN = [
     "Lunda", "Lundak", "Lundiak", "Łundyak", "Łundziak",
     "Babij", "Babiy", "Babijczuk", "Babeyczuk",
     "Jurczylo", "Jurchilo",
@@ -20,7 +21,8 @@ export var surnamesData_EN = [
     "Skrypnyk", "Skrypka"
 ];
 
-export var surnamesData_UA = [
+// export var surnamesData_UA = [
+var surnamesData_UA = [
     "Люнда", "Лунда", "Лундяк", "Люндяк", "Лундак", "Люндак",
     "Бабій", "Бабійчук", "Бабейчук",
     "Юрчило",
