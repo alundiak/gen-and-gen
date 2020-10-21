@@ -3,47 +3,48 @@
 
 <head>
     <title>Gen & Gen</title>
-    <script src="//d3js.org/d3.v3.min.js"></script> 
+    <script src="//d3js.org/d3.v3.min.js"></script>
     <!-- 3.5.17 -->
 
     <!-- <script type="text/javascript" src="https://www.jasondavies.com/d3.min.js"></script> -->
-    <!-- 3.4.4 -->    
+    <!-- 3.4.4 -->
 
     <link rel="stylesheet" type="text/css" href="css/jasondavies_style.css">
     <link rel="stylesheet" type="text/css" href="css/clouds.css">
     <link rel="stylesheet" type="text/css" href="css/sunburst.css">
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-scale/1.0.7/d3-scale.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-interpolate/1.1.6/d3-interpolate.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/d3-interpolate/1.1.6/d3-interpolate.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-color/1.0.3/d3-color.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.js"></script>
     <script type="text/javascript" src="https://www.jasondavies.com/wordcloud/cloud.min.js"></script>
 </head>
 
 <body>
-    
+
     <div class="info">
         <div>Hello, it's Andrii Lundiak
-        <span><a target="_blank" href="https://www.facebook.com/andrii.lundiak">My Facebook profile</a></span> |
-        <span><a target="_blank" href="https://lundiak.wordpress.com/">My blog LUND-IA-K</a></span> |
-        <span><a target="_blank" href="https://github.com/alundiak">My main GitHub page</a></span>    
+            <span><a target="_blank" href="https://www.facebook.com/andrii.lundiak">My Facebook profile</a></span> |
+            <span><a target="_blank" href="https://lundiak.wordpress.com/">My blog LUND-IA-K</a></span> |
+            <span><a target="_blank" href="https://github.com/alundiak">My main GitHub page</a></span>
         </div>
         <div>and this page contains my Genealogy & Genetics projects :)</div>
+    </div>
+
+    <h2><a href="https://alundiak.github.io/gen-and-gen/sunburst">Surnames Sunburst chart</a></h2>
+    <span>this is live, interactive example.</span>
+    <div class="surnames_sunburst">
+        <div id="vis"></div>
     </div>
 
     <h2><a href="https://alundiak.github.io/gen-and-gen/clouds">Surnames and Locations Clouds</a></h2>
     <div class="surnames_cloud"></div>
 
-
-    <h2><a href="https://alundiak.github.io/gen-and-gen/sunburst">Surnames Sunburst chart</a></h2>
-    <span>this is live, interactive example.</span>
-    <div class="surnames_sunburst">
-	   <div id="vis"></div>
-    </div>
-
     <!-- <script type="module" src="js/clouds.js"></script> -->
-    <script type="text/javascript" src="js/surnames.js"></script>
-    <script type="text/javascript" src="js/locations.js"></script>
+    <script type="text/javascript" src="data/surnames.js"></script>
+    <script type="text/javascript" src="data/locations.js"></script>
     <script type="text/javascript" src="js/clouds.js"></script>
 
     <script type="text/javascript" src="js/jasondavies_app.min.js"></script>
