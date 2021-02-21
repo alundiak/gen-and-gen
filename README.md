@@ -33,6 +33,10 @@ Based on D3.JS try to implement tree visualization
 - Vulgo names based on my genealogy research
 - Maybe dedicated repo.
 
+## 6: MyHeritage "Family Tree Builder" Activity
+- Get date/time information from `GEDCOM` file, parse with nodeJS/JS and visualize as time graph. Example in Tumblr Activity section/page.
+
+
 **Other Resources**:
 - https://github.com/d3/d3/wiki/Gallery
 - http://techslides.com/over-1000-d3-js-examples-and-demos
