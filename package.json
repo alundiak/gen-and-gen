@@ -1,5 +1,5 @@
 {
-  "name": "gen-and-gen",
+  "name": "@lundiak/gen-and-gen",
   "version": "1.0.0",
   "description": "Genealogy and Genetics related projects sandbox",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alundiak/gentree.git"
+    "url": "git@github.com:alundiak/gen-and-gen.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alundiak/gentree/issues"
+    "url": "https://github.com/alundiak/gen-and-gen/issues"
   },
-  "homepage": "https://github.com/alundiak/gentree#readme",
+  "homepage": "https://alundiak.github.io/gen-and-gen/",
   "dependencies": {
     "d3": "^4.10.0",
     "d3-cloud": "^1.2.4",

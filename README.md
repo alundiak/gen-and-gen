@@ -9,6 +9,7 @@ Based on D3.JS try to implement tree visualization
 - [D3.Cloud](https://github.com/jasondavies/d3-cloud)
 - Maybe [D3.Cloud v4](https://www.npmjs.com/package/d3-v4-cloud)
 - [D3.Scale](https://github.com/d3/d3-scale)
+- Maybe React tag-cloud - https://madox2.github.io/react-tagcloud/
 
 ## 2: [Surnames Sunburst chart](https://alundiak.github.io/gen-and-gen/sunburst)
 - https://bl.ocks.org/mbostock/4063423 - Sunburst Partition
@@ -16,6 +17,7 @@ Based on D3.JS try to implement tree visualization
 - https://www.jasondavies.com/coffee-wheel/ - Coffee Wheel
 - https://bl.ocks.org/mbostock/4348373 - Zoomable Sunburst
 - http://charts.animateddata.co.uk/tennis/matchTree.html - maybe rework sunburst with this "Circular match tree"
+- NEW: https://observablehq.com/@dmadisetti/perseverance-parachute
 
 ## 3: My Matches Chart - TODO
 - https://csaladenes.com/2015/06/21/a-visual-exploratory-of-refugee-flows-over-the-world-using-dynamic-chord-diagrams/
