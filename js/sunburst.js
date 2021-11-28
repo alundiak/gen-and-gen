@@ -1,5 +1,5 @@
 // NOT USED YET
-// https://bl.ocks.org/mbostock/4063423 - Sunburst Partition
+// https://bl.ocks.org/mbostock/4063423 - Sunburst Partition - D3@3 based
 // https://bl.ocks.org/kerryrodden/7090426 - Sequences sunburst
 // https://www.jasondavies.com/coffee-wheel/ - Coffee Wheel
 

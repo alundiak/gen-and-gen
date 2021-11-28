@@ -1,0 +1,469 @@
+{
+    "name": "surnames",
+    "children": [
+        {
+            "name": "LUNDIAK",
+            "firstName": "Mykhajlo",
+            "year": 1949,
+            "colour": "#326a9f",
+            "children": [
+                {
+                    "name": "LUNDIAK",
+                    "firstName": "Wasyl",
+                    "year": 1925,
+                    "colour": "#326a9f",
+                    "children": [
+                        {
+                            "name": "LUNDIAK",
+                            "firstName": "Nicolaus",
+                            "year": 1901,
+                            "colour": "#326a9f",
+                            "children": [
+                                {
+                                    "name": "LUNDIAK",
+                                    "firstName": "Paulus",
+                                    "year": 1861,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "LUNDIAK",
+                                            "firstName": "Eustachius",
+                                            "year": 1827,
+                                            "size": 1,
+                                            "colour": "#326a9f"
+                                        },
+                                        {
+                                            "name": "KISLAK",
+                                            "firstName": "Maria",
+                                            "year": 1828,
+                                            "size": 1,
+                                            "colour": "#b54997"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "MYKYTIUK",
+                                    "firstName": "Maria",
+                                    "year": 1870,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "MYKYTIUK",
+                                            "firstName": "Basilius",
+                                            "year": 1850,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "DEMYDIUK",
+                                            "firstName": "Anna",
+                                            "year": 1850,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "BASIUGA",
+                            "firstName": "Eudoxia",
+                            "year": 1902,
+                            "colour": "#b54997",
+                            "children": [
+                                {
+                                    "name": "BASIUGA",
+                                    "firstName": "Nicodemus",
+                                    "year": 1861,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "BASIUGA",
+                                            "firstName": "Michael",
+                                            "year": 1836,
+                                            "size": 1,
+                                            "colour": "#326a70"
+                                        },
+                                        {
+                                            "name": "MYKYTIUK",
+                                            "firstName": "Eudoxia",
+                                            "year": 1836,
+                                            "size": 1,
+                                            "colour": "#b54950"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SOLOMON",
+                                    "firstName": "Anna",
+                                    "year": 1861,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "SOLOMON",
+                                            "firstName": "Stephanus",
+                                            "year": 1841,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "JANCIUK",
+                                            "firstName": "Anastasia",
+                                            "year": 1841,
+                                            "size": 1,
+                                            "colour": "#b54997"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "JURCZYLO",
+                    "firstName": "Anna",
+                    "year": 1927,
+                    "colour": "#b54997",
+                    "children": [
+                        {
+                            "name": "JURCZYLO",
+                            "firstName": "Nicolaus",
+                            "year": 1897,
+                            "colour": "#326a9f",
+                            "children": [
+                                {
+                                    "name": "JURCZYLO",
+                                    "firstName": "Wasyl",
+                                    "year": 1865,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "JURCZYLO",
+                                            "firstName": "Johannes",
+                                            "year": 1848,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "KISLAK",
+                                            "firstName": "Anna",
+                                            "year": 1848,
+                                            "size": 1,
+                                            "colour": "#b54997"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "FEDORAK",
+                                    "firstName": "Catharina",
+                                    "year": 1869,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "FEDORAK",
+                                            "firstName": "Onufrius",
+                                            "year": 1845,
+                                            "size": 1,
+                                            "colour": "#326a9f"
+                                        },
+                                        {
+                                            "name": "POLOWKO",
+                                            "firstName": "Anna",
+                                            "year": 1845,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "BASIUGA",
+                            "firstName": "Eudoxia",
+                            "year": 1894,
+                            "colour": "#b54997",
+                            "children": [
+                                {
+                                    "name": "BASIUGA",
+                                    "firstName": "Demetrius",
+                                    "year": 1856,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "BASIUGA",
+                                            "firstName": "Michael",
+                                            "year": 1836,
+                                            "colour": "#326a70",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "MYKYTIUK",
+                                            "firstName": "Eudoxia",
+                                            "year": 1836,
+                                            "colour": "#b54950",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SKRYPNYK",
+                                    "firstName": "Maria",
+                                    "year": 1856,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "SKRYPNYK",
+                                            "firstName": "Elias",
+                                            "year": 1820,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "MRICZKO",
+                                            "firstName": "Catharina",
+                                            "year": 1820,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BABIJ",
+            "firstName": "Kateryna",
+            "year": 1950,
+            "colour": "#b54997",
+            "children": [
+                {
+                    "name": "BABIJ",
+                    "firstName": "Stephanus",
+                    "year": 1901,
+                    "colour": "#326a9f",
+                    "children": [
+                        {
+                            "name": "BABIJ",
+                            "firstName": "Onophrius",
+                            "year": 1871,
+                            "colour": "#326a9f",
+                            "children": [
+                                {
+                                    "name": "BABIJ",
+                                    "firstName": "Basilius",
+                                    "year": 1848,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "BABIJ",
+                                            "firstName": "Damianus",
+                                            "year": 1816,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "CZYŻOWSKA",
+                                            "firstName": "Catharina",
+                                            "year": 1816,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "KISLAK",
+                                    "firstName": "Maria",
+                                    "year": 1848,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "KISLAK",
+                                            "firstName": "Michael",
+                                            "year": 1820,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "ILKOW",
+                                            "firstName": "Justina",
+                                            "year": 1820,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "TYMKIW",
+                            "firstName": "Anna",
+                            "year": 1871,
+                            "colour": "#b54997",
+                            "children": [
+                                {
+                                    "name": "TYMKIW",
+                                    "firstName": "Niketa",
+                                    "year": 1851,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "TYMKIW",
+                                            "firstName": "Maxym",
+                                            "year": 1820,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "Unknown",
+                                            "firstName": "",
+                                            "year": 1820,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ANDRUSIAK",
+                                    "firstName": "Catharina",
+                                    "year": 1851,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "ANDRUSIAK",
+                                            "firstName": "Jacobus",
+                                            "year": 1820,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "ŁAZAR",
+                                            "firstName": "Anastasia",
+                                            "year": 1820,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "STEFURAK",
+                    "firstName": "Eudoxia",
+                    "year": 1905,
+                    "colour": "#b54997",
+                    "children": [
+                        {
+                            "name": "STEFURAK",
+                            "firstName": "Petrus",
+                            "year": 1874,
+                            "colour": "#326a9f",
+                            "children": [
+                                {
+                                    "name": "STEFURAK",
+                                    "firstName": "Nicolaus",
+                                    "year": 1835,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "STEFURAK",
+                                            "firstName": "unknown",
+                                            "year": 1800,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "",
+                                            "firstName": "unknown",
+                                            "year": 1800,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "GRICZKO",
+                                    "firstName": "Catharina",
+                                    "year": 1830,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "GRICZKO",
+                                            "firstName": "Jacobus",
+                                            "year": 1800,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "HURMAK",
+                                            "firstName": "Eudoxia",
+                                            "year": 1800,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SZYBISTA",
+                            "firstName": "Anna",
+                            "year": 1879,
+                            "colour": "#b54997",
+                            "children": [
+                                {
+                                    "name": "SZYBISTY",
+                                    "firstName": "Georgius (Yurko)",
+                                    "year": 1854,
+                                    "colour": "#326a9f",
+                                    "children": [
+                                        {
+                                            "name": "SZYBISTY",
+                                            "firstName": "Stephanus",
+                                            "year": 1780,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "",
+                                            "firstName": "firstName unknown",
+                                            "year": 1780,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "IWANKOW",
+                                    "firstName": "Catharina",
+                                    "year": 1854,
+                                    "colour": "#b54997",
+                                    "children": [
+                                        {
+                                            "name": "IWANKOW",
+                                            "firstName": "Stephanus",
+                                            "year": 1834,
+                                            "colour": "#326a9f",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": "IWASYK",
+                                            "firstName": "Pelagia",
+                                            "year": 1834,
+                                            "colour": "#b54997",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

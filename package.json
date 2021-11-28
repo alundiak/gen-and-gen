@@ -10,16 +10,13 @@
     "type": "git",
     "url": "git@github.com:alundiak/gen-and-gen.git"
   },
-  "author": "",
+  "author": "Andrii Lundiak",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alundiak/gen-and-gen/issues"
-  },
   "homepage": "https://alundiak.github.io/gen-and-gen/",
   "dependencies": {
-    "d3": "^4.10.0",
-    "d3-cloud": "^1.2.4",
-    "d3-scale-chromatic": "^1.1.1",
-    "d3-v4-cloud": "^1.0.0"
+    "d3": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.1.0"
   }
 }
