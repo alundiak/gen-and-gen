@@ -1,3 +1,11 @@
+a {
+    color: steelblue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 .svg-container {
     display: inline-block;
     width: 30%;
