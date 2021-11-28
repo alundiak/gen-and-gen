@@ -6,6 +6,12 @@ Based on D3.JS try to implement tree visualization
 
 ## 1: [Surnames and Locations Clouds](https://alundiak.github.io/gen-and-gen/clouds)
 
+TODO: Migrate to D3 v4-5-6-7 
+- https://github.com/d3/d3/blob/main/CHANGES.md#changes-in-d3-40
+- https://github.com/d3/d3-scale-chromatic#categorical
+- https://stackoverflow.com/questions/66714093/javascript-and-d3-error-cannot-read-property-cloud-of-undefined
+- https://stackoverflow.com/questions/44379393/how-can-i-specify-the-d3-v4-micro-library-on-cdn
+
 - [D3.Cloud](https://github.com/jasondavies/d3-cloud)
 - Maybe [D3.Cloud v4](https://www.npmjs.com/package/d3-v4-cloud)
 - [D3.Scale](https://github.com/d3/d3-scale)

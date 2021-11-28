@@ -11,10 +11,11 @@
 // import {surnamesData_EN, surnamesData_UA} from '/js/surnames.js'
 // import {locationsData_EN, locationsData_UA} from '/js/locations.js'
 
+// https://stackoverflow.com/questions/52450957/d3-scale-category20-gives-uncaught-typeerror-cannot-read-property-category20?noredirect=1&lq=1
 var fill = d3.scale.category20(); // old code
-// var fill = d3.schemeCategory10; // new code
-// var fill = d3.schemeCategory20; // new code
-// var fill = d3.schemeCategory20c; // new code
+// var fill = d3.schemeCategory10; // new code for D3 v4-based code
+// var fill = d3.schemeCategory20; // new code for D3 v4-based code
+// var fill = d3.schemeCategory20c; // new code for D3 v4-based code
 
 // var fill = d3.schemeAccent; // from d3-scale-chromatic
 // var fill = d3.scaleOrdinal(d3.schemeCategory20) // bad
