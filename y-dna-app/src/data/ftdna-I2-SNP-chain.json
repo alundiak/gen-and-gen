@@ -1,0 +1,71 @@
+[
+  "I-P37",
+  "I-M423",
+  "I-S2770",
+  "I-CTS11030",
+  "I-CTS5375",
+  "I-CTS7213",
+  "I-S10302",
+  "I-L621",
+  "I-CTS10936",
+  "I-S19848",
+  "I-CTS4002",
+  "I-CTS10228",
+  "I-S20602",
+  "I-Y3120",
+  "I-Y4460",
+  {
+    "snp": "I-Y3106",
+    "people": [
+      "Szamoskozi (FTDNA) => I-Y3106 => I-FGC34839 => I-BY112455"
+    ]
+  },
+  {
+    "snp": "I-B57",
+    "people": [
+      "ancientDNA: Karos"
+    ]
+  },
+  "I-FT10545",
+  {
+    "snp": "I-Z16973",
+    "people": [
+      "Szamoskozi (YFULL)"
+    ]
+  },
+  "I-FT9301",
+  {
+    "snp": "I-FGC63213",
+    "people": [
+      "Andrii Lundiak (FTDNA)",
+      "Daujotas (FTDNA",
+      "Kosareo (FTDNA)",
+      "Sadowy (FTDNA)",
+      "Zagoruiko ?"
+    ]
+  },
+  {
+    "snp": "I-Y128456",
+    "people": [
+      "Andrii Lundiak (YFULL)",
+      "Daujotas (YFULL)",
+      "Kosareo ?",
+      "Sadowy ?",
+      "Zagoruiko (YFULL)"
+    ]
+  },
+  "I-BY51714",
+  "I-BY182167",
+  "I-Y128937",
+  "I-FGC8449",
+  "I-Y4298",
+  "I-FT89045",
+  "I-Y22331",
+  "I-Y22933",
+  "I-Y21259",
+  "I-Y490467",
+  "I-L670",
+  "I-L670.1",
+  "I-L670.2",
+  "I-Y126531"
+]

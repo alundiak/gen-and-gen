@@ -1,0 +1,33 @@
+[
+  {
+    "idGroup": "ukrainian-dna",
+    "idPublic": "UkrainianDNA",
+    "groupsTimeTree": "https://discover.familytreedna.com/groups/ukrainian-dna/tree"
+  },
+  {
+    "idGroup": "polish",
+    "idPublic": "polish",
+    "groupsTimeTree": "https://discover.familytreedna.com/groups/polish/tree"
+  },
+  {
+    "idGroup": "i-2a-hap-group",
+    "idPublic": "I2aHapGroup",
+    "mtDnaResults": null,
+    "groupsTimeTree": "https://discover.familytreedna.com/groups/i-2a-hap-group/tree"
+  },
+  {
+    "idGroup": "balticsea",
+    "idPublic": "balticsea",
+    "groupsTimeTree": "https://discover.familytreedna.com/groups/balticsea/tree"
+  },
+  {
+    "idGroup": "balkangenetics",
+    "idPublic": "balkangenetics",
+    "groupsTimeTree": "https://discover.familytreedna.com/groups/balkangenetics/tree"
+  },
+  {
+    "idGroup": "ivano-frankivskregion",
+    "idPublic": "Ivano-Frankivskregion",
+    "groupUrl": "https://www.familytreedna.com/groups/ivano-frankivskregion"
+  }
+]
