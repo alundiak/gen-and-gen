@@ -1,15 +1,15 @@
 .surnames_sunburst {
-	margin: 0 10%;
+  margin: 0 10%;
 }
 
 path {
-    stroke: #fff;
+  stroke: #fff;
 }
 
 tspan {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .nested_body .info {
-    position: absolute;
+  position: absolute;
 }
