@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'build', // default dist
   },
-  base: '/y-dna-app',
+  base: '/gen-and-gen/y-dna-app',
 })
