@@ -1,0 +1,16 @@
+a {
+    color: steelblue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.svg-container {
+    display: inline-block;
+    width: 30%;
+}
+
+.svg-container:nth-child(2) {
+    margin-right: 400px; /*Doesn't work, when DIV or CVG is on very first child level. Strange.*/
+}

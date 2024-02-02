@@ -1,0 +1,25 @@
+/* COMMON */
+body {
+  font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
+  line-height: 1.5em;
+  color: #333;
+  background: #fefefe;
+  position: relative;
+}
+
+a {
+  color: steelblue;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 2.5em;
+}
