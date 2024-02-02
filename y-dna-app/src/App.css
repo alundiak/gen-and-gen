@@ -1,0 +1,27 @@
+#root {
+  /* max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem; */
+  /* text-align: center; */
+}
+
+footer {
+
+  /* https://caniuse.com/css-nesting */
+  /* Since at least Dec-2023 CSS classes nesting is implemented in most of browsers */
+
+  .links {
+    .facebook {
+      color: blue;
+    }
+
+    .github {
+      color: grey;
+    }
+
+    .blog {
+      color: green;
+    }
+  }
+
+}
