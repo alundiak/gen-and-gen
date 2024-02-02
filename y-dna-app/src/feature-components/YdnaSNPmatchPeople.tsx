@@ -1,5 +1,5 @@
 
-export function MyYdnaMatchPeople({ names }: { names: string[] }) {
+export function YdnaSNPmatchPeople({ names }: { names: string[] }) {
   if (!names.length) {
     return null;
   }

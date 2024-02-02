@@ -11,7 +11,12 @@
   "I-S19848",
   "I-CTS4002",
   "I-CTS10228",
-  "I-S20602",
+  {
+    "snp": "I-S20602",
+    "people": [
+      "Kifa (FTDNA YDNA-37)"
+    ]
+  },
   "I-Y3120",
   "I-Y4460",
   {
@@ -33,12 +38,22 @@
       "Szamoskozi (YFULL)"
     ]
   },
-  "I-FT9301",
+  {
+    "snp": "I-FT9301",
+    "children": [
+      {
+        "snp": "I-FT8963",
+        "people": [
+          "Kokov (FTDNA, YFULL)"
+        ]
+      }
+    ]
+  },
   {
     "snp": "I-FGC63213",
     "people": [
       "Andrii Lundiak (FTDNA)",
-      "Daujotas (FTDNA",
+      "Daujotas (FTDNA)",
       "Kosareo (FTDNA)",
       "Sadowy (FTDNA)",
       "Zagoruiko ?"

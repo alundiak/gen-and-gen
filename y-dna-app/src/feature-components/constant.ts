@@ -17,18 +17,4 @@ export const FTDNA_DISCOVER_Y_DNA_SECTIONS = [
 ];
 export const YFULL_URL = 'https://www.yfull.com/tree';
 
-export function parseSNP_data(element: any) {
-  let SNP = '', people = [];
-
-  if (typeof element === 'string') {
-    SNP = element;
-  } else {
-    SNP = element.snp;
-    people = element.people;
-  }
-
-  return {
-    SNP,
-    people
-  }
-}
+export const SNP_TRACKER_URL = 'http://scaledinnovation.com/gg/snpTracker.html'; // Value for "?snp=" works both ways OK: "Y128456" or "I-Y128456"

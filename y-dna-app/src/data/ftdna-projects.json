@@ -1,0 +1,189 @@
+[
+  {
+    "idGroup": "i-2a-hap-group",
+    "idPublic": "I2aHapGroup",
+    "mtDnaResults": null,
+    "myMembership": true
+  },
+  {
+    "idGroup": "dinaric-alps-dna",
+    "idPublic": "dinaric-alps-dna",
+    "myMembership": true
+  },
+  {
+    "idGroup": "ivano-frankivskregion",
+    "idPublic": "Ivano-Frankivskregion",
+    "myMembership": true
+  },
+  {
+    "idGroup": "ukrainian-dna",
+    "idPublic": "UkrainianDNA",
+    "myMembership": true
+  },
+  {
+    "idGroup": "ukraine",
+    "idPublic": "ukraine",
+    "myMembership": true
+  },
+  {
+    "idGroup": "polish",
+    "idPublic": "polish",
+    "myMembership": true
+  },
+  {
+    "idGroup": "podlasie",
+    "idPublic": "Podlasie",
+    "myMembership": true
+  },
+  {
+    "idGroup": "carpatho-rusyn",
+    "idPublic": "carpatho-rusyn",
+    "myMembership": true
+  },
+  {
+    "idGroup": "lituania-propria",
+    "idPublic": "LituaniaPropria",
+    "myMembership": true
+  },
+  {
+    "idGroup": "balticsea",
+    "idPublic": "balticsea",
+    "myMembership": true
+  },
+  {
+    "idGroup": "romania",
+    "idPublic": "Romania",
+    "myMembership": true
+  },
+  {
+    "idGroup": "balkangenetics",
+    "idPublic": "balkangenetics",
+    "myMembership": true
+  },
+  {
+    "idGroup": "central-balkan-mountains",
+    "idPublic": "CentralBalkanMountains",
+    "myMembership": true
+  },
+  {
+    "idGroup": "croatian-dna",
+    "idPublic": "CroatianDNA",
+    "myMembership": true
+  },
+  {
+    "idGroup": "serbian-dna-project",
+    "idPublic": "SerbianDNAProject",
+    "myMembership": true
+  },
+  {
+    "idGroup": "belarus",
+    "idPublic": "belarus",
+    "myMembership": true
+  },
+  {
+    "idGroup": "belarusian-nobility-dna",
+    "idPublic": "Belarusian_Nobility_DNA",
+    "myMembership": false
+  },
+  {
+    "idGroup": "masovian-nob",
+    "idPublic": "MasovianNob",
+    "myMembership": false
+  },
+  {
+    "idGroup": "bessarabia",
+    "idPublic": "Bessarabia",
+    "myMembership": false
+  },
+  {
+    "idGroup": "jewish-ukraine-west",
+    "idPublic": "Jewish_Ukraine_West",
+    "myMembership": false
+  },
+  {
+    "idGroup": "cossacks",
+    "idPublic": "Cossacks",
+    "mtDnaResults": null,
+    "myMembership": false
+  },
+  {
+    "idGroup": "crimean-tatar-dna",
+    "idPublic": "CrimeanTatarDNA",
+    "myMembership": false
+  },
+  {
+    "idGroup": "rurikid",
+    "idPublic": "rurikid",
+    "myMembership": false
+  },
+  {
+    "idGroup": "russian-nobility-dna",
+    "idPublic": "RussianNobilityDNA",
+    "myMembership": false
+  },
+  {
+    "idGroup": "russiadna",
+    "idPublic": "russiadna",
+    "myMembership": false
+  },
+  {
+    "idGroup": "russian-dna",
+    "idPublic": "RussianDNA",
+    "myMembership": false
+  },
+  {
+    "idGroup": "russian-ethnic-project",
+    "idPublic": "RussianEthnicProject",
+    "myMembership": false
+  },
+  {
+    "idGroup": "circassian",
+    "idPublic": "UbykhSochi",
+    "myMembership": false
+  },
+  {
+    "idGroup": "ponticandanatoliangreeksdna",
+    "idPublic": "russiangreeks",
+    "myMembership": false
+  },
+  {
+    "idGroup": "italy",
+    "idPublic": "Italy",
+    "myMembership": false
+  },
+  {
+    "idGroup": "colonial-usa-deutsch",
+    "idPublic": "colonial-usa-deutsch",
+    "myMembership": false
+  },
+  {
+    "idGroup": "i-2a-l161",
+    "idPublic": "I2a-L161",
+    "myMembership": false
+  },
+  {
+    "idGroup": "tatarstan",
+    "idPublic": "Tatarstan",
+    "myMembership": false
+  },
+  {
+    "idGroup": "czech",
+    "idPublic": "czech",
+    "myMembership": false
+  },
+  {
+    "idGroup": "germany",
+    "idPublic": "germany",
+    "myMembership": false
+  },
+  {
+    "idGroup": "canadiananusim",
+    "idPublic": "canadiananusim",
+    "myMembership": false
+  },
+  {
+    "idGroup": "frenchheritage",
+    "idPublic": "frenchheritage",
+    "myMembership": false
+  }
+]
