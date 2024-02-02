@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://alundiak.github.io/gen-and-gen/",
+  "homepage": "https://alundiak.github.io/gen-and-gen/y-dna-app/",
   "scripts": {
     "start": "npm run dev",
     "dev": "vite",
