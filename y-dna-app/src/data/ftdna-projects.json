@@ -81,6 +81,41 @@
     "myMembership": true
   },
   {
+    "idGroup": "i-2a-l161",
+    "idPublic": "I2a-L161",
+    "myMembership": false
+  },
+  {
+    "idGroup": "europe-east-groups-eij",
+    "idPublic": "EuropeEastGroupsEIJ",
+    "myMembership": false
+  },
+  {
+    "idGroup": "alpine-y-mt-dna",
+    "idPublic": "Alpine_DNA_Project_AlpGen_Genealogy",
+    "myMembership": false
+  },
+  {
+    "idGroup": "czech",
+    "idPublic": "czech",
+    "myMembership": false
+  },
+  {
+    "idGroup": "germany",
+    "idPublic": "germany",
+    "myMembership": false
+  },
+  {
+    "idGroup": "slovenia",
+    "idPublic": "slovenia",
+    "myMembership": false
+  },
+  {
+    "idGroup": "italy",
+    "idPublic": "Italy",
+    "myMembership": false
+  },
+  {
     "idGroup": "belarusian-nobility-dna",
     "idPublic": "Belarusian_Nobility_DNA",
     "myMembership": false
@@ -98,17 +133,6 @@
   {
     "idGroup": "jewish-ukraine-west",
     "idPublic": "Jewish_Ukraine_West",
-    "myMembership": false
-  },
-  {
-    "idGroup": "cossacks",
-    "idPublic": "Cossacks",
-    "mtDnaResults": null,
-    "myMembership": false
-  },
-  {
-    "idGroup": "crimean-tatar-dna",
-    "idPublic": "CrimeanTatarDNA",
     "myMembership": false
   },
   {
@@ -137,8 +161,29 @@
     "myMembership": false
   },
   {
+    "idGroup": "tatarstan",
+    "idPublic": "Tatarstan",
+    "myMembership": false
+  },
+  {
     "idGroup": "circassian",
     "idPublic": "UbykhSochi",
+    "myMembership": false
+  },
+  {
+    "idGroup": "cossacks",
+    "idPublic": "Cossacks",
+    "mtDnaResults": null,
+    "myMembership": false
+  },
+  {
+    "idGroup": "ukraine-black-sea",
+    "idPublic": "UkraineBlackSea",
+    "myMembership": false
+  },
+  {
+    "idGroup": "crimean-tatar-dna",
+    "idPublic": "CrimeanTatarDNA",
     "myMembership": false
   },
   {
@@ -147,33 +192,13 @@
     "myMembership": false
   },
   {
-    "idGroup": "italy",
-    "idPublic": "Italy",
+    "idGroup": "anatol-balkan-caucas",
+    "idPublic": "Anatol-Balkan-Caucas",
     "myMembership": false
   },
   {
     "idGroup": "colonial-usa-deutsch",
     "idPublic": "colonial-usa-deutsch",
-    "myMembership": false
-  },
-  {
-    "idGroup": "i-2a-l161",
-    "idPublic": "I2a-L161",
-    "myMembership": false
-  },
-  {
-    "idGroup": "tatarstan",
-    "idPublic": "Tatarstan",
-    "myMembership": false
-  },
-  {
-    "idGroup": "czech",
-    "idPublic": "czech",
-    "myMembership": false
-  },
-  {
-    "idGroup": "germany",
-    "idPublic": "germany",
     "myMembership": false
   },
   {

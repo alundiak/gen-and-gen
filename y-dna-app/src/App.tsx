@@ -1,4 +1,4 @@
-// import React from 'react'
+import { Container, Col, Row } from 'reactstrap';
 import './App.css'
 import { GroupFTDNApages } from './feature-components/GroupFTDNApages'
 import { PublicFTDNAresults } from './feature-components/PublicFTDNAresults'
@@ -7,24 +7,29 @@ import { DiscoverFTDNApagesByPerson } from './feature-components/DiscoverFTDNApa
 import { YdnaPagesBySNP } from './feature-components/YdnaPagesBySNP'
 import { YfullPagesByPerson } from './feature-components/YfullPagesByPerson'
 import { MyContactsInfo } from './feature-components/MyContactsInfo'
+import MyButton from './feature-components/MyButton';
 
 function App() {
 
   return (
     <>
       <header>
-        <h2>Y-DNA</h2>
+        <h2>Y-DNA info (FTDNA, YFULL, SNP Tracker)</h2>
       </header>
 
       <div className="y-dna-app">
-        <GroupFTDNApages />
-        <PublicFTDNAresults />
-        <DiscoverFTDNApages />
+        <Container>
+          <GroupFTDNApages />
+          <PublicFTDNAresults />
+          <DiscoverFTDNApages />
 
-        <YdnaPagesBySNP />
+          <YdnaPagesBySNP />
 
-        <DiscoverFTDNApagesByPerson />
-        <YfullPagesByPerson />
+          <DiscoverFTDNApagesByPerson />
+          <YfullPagesByPerson />
+        </Container>
+
+        <MyButton>Test</MyButton>
 
         <footer>
           <MyContactsInfo />

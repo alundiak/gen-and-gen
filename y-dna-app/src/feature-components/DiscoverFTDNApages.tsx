@@ -1,40 +1,23 @@
-import { FTDNA_DISCOVER } from './constant';
+import { Col, Row } from 'reactstrap';
 import { useProjectsData } from './common';
+import { ListOfDiscoverPages } from '../base-components/ListOfDiscoverPages';
 
 export function DiscoverFTDNApages() {
   const [myFtdnaProjects, otherFtdnaProjects] = useProjectsData();
   return <>
-    <h3>Discover FTDNA Y-DNA group pages</h3>
-    <section>
-      <ul>
-        {
-          myFtdnaProjects.map((item, index) => {
-            const key = `${index}-${item.idGroup}-discover-page`;
-            const url = `${FTDNA_DISCOVER}/${item.idGroup}`;
-            return (
-              <li key={key}>
-                <a href={url} target="_blank">{item.idGroup}</a>
-              </li>
-            );
-          })
-        }
-      </ul>
-    </section>
-    <h3>Discover FTDNA Y-DNA group pages (where I am NOT member)</h3>
-    <section>
-      <ul>
-        {
-          otherFtdnaProjects.map((item, index) => {
-            const key = `${index}-${item.idGroup}-discover-page`;
-            const url = `${FTDNA_DISCOVER}/${item.idGroup}`;
-            return (
-              <li key={key}>
-                <a href={url} target="_blank">{item.idGroup}</a>
-              </li>
-            );
-          })
-        }
-      </ul>
-    </section>
+    <Row>
+      <Col>
+        <h3>Discover pages</h3>
+        <section>
+          <ListOfDiscoverPages data={myFtdnaProjects} />
+        </section>
+      </Col>
+      <Col>
+        <h3>Discover pages (not member)</h3>
+        <section>
+          <ListOfDiscoverPages data={otherFtdnaProjects} />
+        </section>
+      </Col>
+    </Row>
   </>;
 }
