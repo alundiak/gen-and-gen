@@ -1,4 +1,4 @@
-import { Container, Col, Row } from 'reactstrap';
+import { Container } from 'reactstrap';
 import './App.css'
 import { GroupFTDNApages } from './feature-components/GroupFTDNApages'
 import { PublicFTDNAresults } from './feature-components/PublicFTDNAresults'
