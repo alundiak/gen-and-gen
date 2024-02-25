@@ -51,6 +51,11 @@
   },
   {
     "snp": "I-FGC63213",
+    "same-level-snps": [
+      "I-BY182167",
+      "I-FGC8449",
+      "I-Y4298 (maybe)"
+    ],
     "people": [
       "Andrii Lundiak (FTDNA)",
       "Daujotas (FTDNA)",
@@ -61,6 +66,20 @@
     ]
   },
   {
+    "snp": "I-FT89045",
+    "same-level-snps": [
+      "I-BY51714",
+      "I-Y128937",
+      "I-Y128456"
+    ],
+    "people": [
+      "Andrii Lundiak (FTDNA)",
+      "Daujotas (FTDNA)",
+      "Kosareo (FTDNA)",
+      "Unknown Origin 1 (FTDNA)"
+    ]
+  },
+  {
     "snp": "I-Y128456",
     "people": [
       "Andrii Lundiak (YFULL)",
@@ -68,12 +87,6 @@
       "Zagoruiko (YFULL)"
     ]
   },
-  "I-BY51714",
-  "I-BY182167",
-  "I-Y128937",
-  "I-FGC8449",
-  "I-Y4298",
-  "I-FT89045",
   "I-Y22331",
   "I-Y22933",
   "I-Y21259",

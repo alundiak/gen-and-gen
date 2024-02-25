@@ -116,6 +116,11 @@
     "myMembership": false
   },
   {
+    "idGroup": "georgia",
+    "idPublic": "georgia",
+    "myMembership": false
+  },
+  {
     "idGroup": "belarusian-nobility-dna",
     "idPublic": "Belarusian_Nobility_DNA",
     "myMembership": false
