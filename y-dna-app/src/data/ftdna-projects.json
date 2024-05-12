@@ -51,6 +51,31 @@
     "myMembership": true
   },
   {
+    "idGroup": "finland",
+    "idPublic": "Finland",
+    "myMembership": false
+  },
+  {
+    "idGroup": "forrestfinn",
+    "idPublic": "forrestfinn",
+    "myMembership": false
+  },
+  {
+    "idGroup": "finno-ugric-dna",
+    "idPublic": "Finno-UgricDNA",
+    "myMembership": false
+  },
+  {
+    "idGroup": "sweden",
+    "idPublic": "Sweden",
+    "myMembership": false
+  },
+  {
+    "idGroup": "swevikingydnaden",
+    "idPublic": "vikingydna",
+    "myMembership": false
+  },
+  {
     "idGroup": "romania",
     "idPublic": "Romania",
     "myMembership": true
@@ -63,7 +88,8 @@
   {
     "idGroup": "central-balkan-mountains",
     "idPublic": "CentralBalkanMountains",
-    "myMembership": true
+    "myMembership": true,
+    "maybeLeave": false
   },
   {
     "idGroup": "croatian-dna",

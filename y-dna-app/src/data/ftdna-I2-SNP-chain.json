@@ -53,16 +53,18 @@
     "snp": "I-FGC63213",
     "same-level-snps": [
       "I-BY182167",
-      "I-FGC8449",
-      "I-Y4298 (maybe)"
+      "I-FGC8449 (also same level as Q-FGC8433)",
+      "I-Y4298 (also same level as Q-FGC8433)"
     ],
     "people": [
-      "Andrii Lundiak (FTDNA)",
-      "Daujotas (FTDNA)",
-      "Kosareo (FTDNA)",
+      "Kosareo (FTDNA) ?",
       "Sadowy (FTDNA)",
       "Klopochuk (FTDNA)",
-      "Vladychenko (FTDNA)"
+      "Vladychenko (FTDNA)",
+      "Kianenko (FTDNA)",
+      "Mikhalchuk (FTDNA)",
+      "Długosz (FTDNA)",
+      "Peshkov (FTDNA)"
     ]
   },
   {
@@ -75,8 +77,7 @@
     "people": [
       "Andrii Lundiak (FTDNA)",
       "Daujotas (FTDNA)",
-      "Kosareo (FTDNA)",
-      "Unknown Origin 1 (FTDNA)"
+      "Kosareo (FTDNA)"
     ]
   },
   {
