@@ -17,7 +17,7 @@ export function YdnaPagesBySNP() {
             const snpTrackerURL = `${SNP_TRACKER_URL}?snp=${SNP}`;
             return (
               <li key={key}>
-                <span>{SNP}</span> | <a href={ftdnaURL}>FTDNA Discover</a> | <a href={yfullURL}>YFULL</a>| <a href={snpTrackerURL}>SNP Tracker</a>
+                <span>{SNP}</span> | <a href={ftdnaURL}>FTDNA Discover</a> | <a href={yfullURL}>YFULL</a> | <a href={snpTrackerURL}>SNP Tracker</a>
                 {
                   people && <YdnaSNPmatchPeople names={people} />
                 }
