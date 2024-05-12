@@ -57,18 +57,6 @@ Alternative
 ## 6: MyHeritage "Family Tree Builder" Activity
 - Get date/time information from `GEDCOM` file, parse with nodeJS/JS and visualize as time graph. Example in Tumblr Activity section/page.
 
-## 7: FTDNA URLs
-
-Idea is to have at least list of FTDNA groups which I frequently check, so to have one place to navigate from. MAYBE integrated with FTDNA API.
-
-Also, idea fo representing Y-DNA Discover tree based on SNP, and every joint as hyperlink to to the SNP-based page.
-
-![img](./img/ftdna-ydna-idea-jan-2024.png)
-
-Technically: 
-- Maybe React using Vite to build a static JS app and deploy to GitHub Pages.
-- Maybe Apollo GraphQL + some NO-SQL database app hosted on Heroku to be able to CRUD data.
-
 
 **Other Resources**:
 - https://github.com/d3/d3/wiki/Gallery
